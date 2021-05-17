@@ -48,7 +48,7 @@
                <div class="row">
                   <div class="col-sm-12">
                       <div class="full">
-                        <h3>Contact us</h3>
+                        <h3>Contact us <a href="index.php">Go To Main</a></h3>
                       </div>
                   </div>
                </div>
